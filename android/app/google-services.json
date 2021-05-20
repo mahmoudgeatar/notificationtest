@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "592087751265",
-    "project_id": "notificationapptest-258bd",
-    "storage_bucket": "notificationapptest-258bd.appspot.com"
+    "project_number": "907630346610",
+    "project_id": "notificationtest-7599f",
+    "storage_bucket": "notificationtest-7599f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:592087751265:android:68e92118163cd541916820",
+        "mobilesdk_app_id": "1:907630346610:android:b5a8aa80001d5956a0ddeb",
         "android_client_info": {
           "package_name": "com.notificationapptest"
         }
       },
       "oauth_client": [
         {
-          "client_id": "592087751265-mieet1satek29mf6di077lairqhn1iva.apps.googleusercontent.com",
+          "client_id": "907630346610-djtma7tc21ele19r4cff9743f7k6f0n2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBHEashs8YNoZehzCRDkxdwsQ9lDojLPiM"
+          "current_key": "AIzaSyC35eqz3X9MebpQys5ta8v7flslT4G7qEM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "592087751265-mieet1satek29mf6di077lairqhn1iva.apps.googleusercontent.com",
+              "client_id": "907630346610-djtma7tc21ele19r4cff9743f7k6f0n2.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "907630346610-07rusev0b0ucc3v8c59cjftbjtr5hgu4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.notificationtestapp"
+              }
             }
           ]
         }
